@@ -1,5 +1,6 @@
+<h1>Hii 👋 I'm Aman Jaiswal</h1>
 # 💫 About Me:
-I'm Currently Working on Web Development.<br><br>I'm Currently Learning Backend.
+I'm Currently Working on Web Development.<br><br>I'm Currently Learning Backend Web developement.
 
 
 ## 🌐 Socials:
@@ -13,7 +14,7 @@ I'm Currently Working on Web Development.<br><br>I'm Currently Learning Backend.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman11102005&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aman11102005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Aman11102005&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aman11102005&icon=0&color=0)](https://visitcount.itsvg.in)
