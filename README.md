@@ -1,7 +1,7 @@
 <h1>Hii 👋 I'm Aman Jaiswal</h1>
 
 ## 💫 About Me:
-I'm Currently Working on Full Stack Web Development.<br><br>I'm Currently Learning Backend Web developement.
+I'm Currently Learning Backend Web developement.
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
